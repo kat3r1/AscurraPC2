@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "521004110041",
+    "project_id": "pc2ascurra",
+    "storage_bucket": "pc2ascurra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521004110041:android:bcb707860108959b03eec8",
+        "android_client_info": {
+          "package_name": "com.example.ascurrapc2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMJ2U--IYE0DVuTyIqlrZkAraNUiqGQsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521004110041:android:af3559dad4c1a64e03eec8",
+        "android_client_info": {
+          "package_name": "dev.Katherine.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMJ2U--IYE0DVuTyIqlrZkAraNUiqGQsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AscurraPC2</string>
+    <string name="titulo_registro">Registro Liga1</string>
+    <string name="nombreequipo">Nombre del equipo</string>
+    <string name="aniofundacion">Año de fundacion</string>
+    <string name="numerotitulo">Número de titulos ganados</string>
+    <string name="urlimagen">URL de la imagen del equipo</string>
+    <string name="btnGuardar">GUARDAR</string>
+    <string name="titulo_equipos">Equipos</string>
+    <string name="btn_NuevoRegistro">Nuevo Registro</string>
+</resources>
